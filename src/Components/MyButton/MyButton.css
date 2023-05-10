@@ -1,0 +1,10 @@
+button{
+    padding: 5px 10px;
+   
+    cursor: pointer;
+}
+
+button:hover{
+   transform: scale(1.1);
+}
+
